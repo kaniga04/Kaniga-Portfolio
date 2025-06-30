@@ -4,7 +4,7 @@
 
 Welcome to my **Portfolio Website** repository! This project showcases my skills, projects, and interests as a **Full Stack Developer**, **Cyber Security Enthusiast**, and **Designer**.
 
-## 🚀 Features
+##  Features
 
 - Responsive design
 - About Me section
@@ -12,7 +12,7 @@ Welcome to my **Portfolio Website** repository! This project showcases my skills
 - Project showcase with "Learn More" interaction
 - Contact details
 
-## 🛠️ Built With
+##  Built With
 
 - HTML
 - CSS
